@@ -154,22 +154,27 @@ p{
     transition: all .9s cubic-bezier(1, 1, 1, 1.4);
 }
 .btn2{
-    background-color: #fcffd9;
+    background-color: #ffffff;
     text-decoration: none;
     color: black;
     margin-left: 30.7vh;
-    margin-top: 10vh;
+    margin-top: 23vh;
     cursor: pointer;
-    border: 2px solid #ffd051;
+    border: 2px solid #666562;
+    border-radius: 2em;
+    padding: 5px;
+    box-shadow: 1px 1px 1px rgb(156, 156, 156);
 
 }
 .btn2:visited{
-    background-color: #fcffd9;
+    background-color: #ffffff;
     text-decoration: none;
     color: black;
     margin-left: 30.7vh;
     margin-top: 10vh;
     cursor: pointer;
-    border: 2px solid #ffd051;
-
+    border: 2px solid #666562;
+    border-radius: 2em;
+    padding: 5px;
+    
 }
